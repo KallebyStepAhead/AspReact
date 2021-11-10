@@ -1,0 +1,14 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Kalleby Santos",
+  "classifications": [ "Web", "MVC", "SPA" ],
+  "identity": "ViteReactSpa",
+  "name": "ASP.NET Core with Vite and React.ts",
+  "shortName": "vite-react",
+  "sourceName": "ViteReact",
+  "preferNameDirectory": true,
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  }
+}
